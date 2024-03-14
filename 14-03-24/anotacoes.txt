@@ -1,0 +1,13 @@
+Banco de dados - Aula 2 - Prof. Sávio
+
+Dado: é qualquer elemento em sua forma bruta
+Informação: é um agrupamento de dados que fazem sentido
+Fato: é um conjunto de dados relacionados
+Metadados:
+
+Coletando os DADOS, podemos processá-los e dessa forma é gerada uma INFORMAÇÃO. Analisando as informações, é possível definir o que é FATO.
+
+- O que é Banco de Dados?
+Representação digital de dados interrelacionados representando informações sobre um domínio específico.
+
+- Minimundo:
