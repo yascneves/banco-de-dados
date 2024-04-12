@@ -1,0 +1,4 @@
+BD - Aula 3 - Prof. Savio
+
+- Revisão sobre DADO, INFORMAÇÃO, METADADO, FATO, etc
+- Abstração de dados
