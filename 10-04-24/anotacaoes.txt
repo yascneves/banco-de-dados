@@ -1,0 +1,11 @@
+Banco de Dados - Aula 4 - Prof. Savio
+
+Modelagem de BD
+- modelagem conceitual (representação visual do processamento dos dados para o cliente)
+- modelagem lógica ()
+
+Projeto Físico
+- pronto para implementar
+
+Modelos de Dados
+- 7 

@@ -1,0 +1,20 @@
+10 e 11-04-2024
+1) SGBD é um conjunto de softwrres (interface) que gerenciam uma base de dados. Ele  permite a manipulação do banco de dados e garante as propriedades basicas (ACID)
+
+2) Uma transação é, resumidamente, uma ação no Banco de Dados. Essa alteração é uma operação tratada como uma "unidade de trabalho". É uma operação ou conjunto de operações feita em um banco de dados.
+
+3) ACID é a sigla para 
+Atomicidade - pode ser tratado como um bloco de ações indivisível, ou seja, quando  esse bloco é executado, ele é executado ou parado por inteiro.
+
+Consistência - capacidade dos dados de respeitarem as regras já definidas.
+
+Isolamento - recurso que evita que uma transação interfira em outra. Uma fila é organizada para que as ações não tenham interferência
+
+Durabilidade - uma vez que uma informação é armazenada, ela não é perdida.
+
+4) Um rollback (voltar) é executado quando há qualquer tipo de interferência em uma transação.
+
+5) Os tipos de arquiteturas de SGBD são:
+Stand alone
+Distribuída
+Cliente-Servidor
