@@ -1,6 +1,8 @@
 # banco-de-dados
 IFSUL de Minas (UFLA) - disciplina Banco de Dados, prof. Sávio. março-2024
 
+e-mail Sávio: saviolv9@gmail.com
+
 Nomeando variáveis: 
 
 A escolha de nomes para variáveis é uma parte importante da programação, pois contribui para a legibilidade e compreensão do código. Aqui estão algumas dicas para escolher nomes significativos para suas variáveis: 
