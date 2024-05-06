@@ -1,0 +1,8 @@
+Aula 29 de abril de 2024 - Prof. Sávio
+
+Atributos
+- simples
+- composto
+- derivado: é atualizado automaticamente conforme as características de outro atributo (ex.: idade (derivado da data nasc.))
+- valor nulo: é representado por (null)
+- Primary key (PK): 

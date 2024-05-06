@@ -1,0 +1,23 @@
+Exercício sobre entidades.
+
+Identifique as entidades e verifique:
+1) Uma escola precisa de um sistema para guardar os registros
+de dados de alunos, professores, disciplinas e turmas.
+Entidades: alunos, professores, disciplinas e turmas
+
+
+2) Nesse sistema é preciso saber do aluno: matricula, nome, data
+de nascimento; dos professores é importante guardar
+informações como: matricula, nome, cpf, telefone, endereço e
+data de nascimento.
+
+3) O professor pode possui telefone celular e residencial.
+
+4) Cada turma tem um nome e um código, assim como as
+disciplinas também tem nome e código.
+
+5) Um professor pode dar aula de várias disciplinas em várias
+turmas.
+
+6) Uma disciplina pode ser ministrada por mais de um professor.
+Um aluno só pode fazer parte de uma única turma.
