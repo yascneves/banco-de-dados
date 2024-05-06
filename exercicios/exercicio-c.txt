@@ -1,0 +1,28 @@
+Exercicio C (AULA 5)
+1) Para que serve o Diagrama Entidade Relacionamento?
+O diagrama entidade-relacionamento (entity-relationship) é uma representação visual que visa facilitar o funcionamento das informações em um banco de dados.
+
+2) Defina o que é entidade e dê pelo menos três exemplos de entidades (diferente dos apresentados em aula)
+Entidade é um conjunto de objetos do mesmo tipo que pretendem caracterizar uma informação existente e importante para o funcionamento de um banco de dados. 
+Exemplos de entidade para uma papelaria: papel, caneta e impressão.
+
+3) Defina atributo e cite 4 atributos para as entidades que citou na questão 2.
+Atributo é o que caracteriza uma entidade. Ou seja, corresponde a uma característica de uma entidade ou de um objeto. 
+Entidade1: papel
+Atributos: sulfite, branco, colorido, A4, A3
+
+Entidade2: caneta
+Atributos: esferográfica, azul, preta
+
+Entidade3: impressão
+Atributos: colorida, preto e branca
+
+4) Quais os tipos de atributos ? Explique cada um deles.
+Atributos são classificados em:
+- simples: é um atributo indivisível, não podendo ser dividido em partes menores
+- composto: é um atributo divisível, ou seja, pode ser repartido em partes menores como por exemplo Endereço.
+- derivado: é atualizado automaticamente conforme as características de outro atributo (ex.: idade (derivado da data nasc.))
+- valor nulo: é representado por (null)
+- Primary key (PK): é um atributo identificador. Ele atua como uma identidade única para uma instância de uma classe.
+
+5) Explique o que é chave primária e para que ela serve. Apresente 3 exemplos de atributos que poderiam ser chave primária e explique o porquê.

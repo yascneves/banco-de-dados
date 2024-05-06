@@ -1,0 +1,23 @@
+EXERCICIO 1 (AULA 1 E 2)
+1) É importante ter um banco de dados para que os dados coletados sejam bem armazenados, garantindo sua segurança. Além disso, um BD permite que os dados sejam processados e aproveitados conforme a finalidade do programa. 
+Sem BD, não existiriam muitos sistemas de informação (e-commerce, por exemplo)
+
+2) Um BD é um conjunto de arquivos com vários dados que se interrelacionam e representam uma fração do mundo real (mini-mundo). Esses dados são armazenados, organizados, protegidos e processados. Dois exemplos de google e instagram.
+
+3) Dado: É a representação de um conceito da vida real.
+
+Fato: é uma informação objetiva e concreta em que é possível verificar sua veracidade.
+
+Informação: É o resultado do processamento de dados. Uma informação é sempre útil ao usuário.
+
+Metadados: São dados que descrevem outros dados. Os metadados ajudam na organização e compreensão desses dados.
+
+4) Os principais componentes de um BD são: dados, hardware, software e usuários.
+
+5) As operações básicas que um usuário pode realizar são: CRUD - create (criação), read (leitura), update (atualização) e delete (exclusão).
+inserção, atualização, e consulta.
+
+6)Os niveis de abstração são o nível externo, conceitual, interno ou físico.
+nível externo: concede uma visão parcial do sistema para o usuário
+nível conceitual: o BD é desenvolvido em estruturas simples chamadas MER(Modelo ). É utilizado pelos administradores que podem decidir as informações que ficarão no BD.
+nível interno (ou físico): armazenamento mais puro dos dados através da criação de arquivos de configuração.

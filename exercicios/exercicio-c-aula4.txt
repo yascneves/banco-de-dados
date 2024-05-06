@@ -1,0 +1,11 @@
+Exercicio C (AULA 4)
+1) Quais as etapas de um Projeto de Desenvolvimento de um Sistema de Banco de Dados? O que é feito em cada uma dessas etapas?
+As etapas para o desenvolvimento de um projeto de um Sistema de Banco de Dados consiste em entender que tipo de dado é relevante para o cliente,sondá-los, organizá-los e modelá-los de forma a atender as necessidades do cliente. Esse processo pode seguir da seguinte maneira:
+Minimundo -> Obtenção e Análise de registros -> Modelo Conceitual -> Modelo Lógico -> Projeto Físico.
+
+2) O que são entidades no conceito de BD ?
+Entidades são um conjunto de objetos que possuem características relevantes que imitam o mundo real em para um determinado banco de dados.
+
+3) Qual a diferença entre os modelos orientados a registros e os modelos orientados a objetos? Cite exemplos de cada um deles.
+Modelos orientados a registros:
+Modelos orientados a objetos:   
